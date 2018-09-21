@@ -1,0 +1,19 @@
+.hello {
+    width: 19.2rem;
+    height: 10.8rem;
+    color: green;
+    background: url('../images/o_bg.jpg') no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    .box1 {
+        position: absolute;
+        width: 2.28rem;
+        height: 2.28rem;
+        border-radius: 1.14rem;
+        border: .025rem solid #2489c8;
+        left: 9.5rem;
+        top: 0.2rem;
+        background: url('../images/o.png') no-repeat;
+        background-size: 100% 100%;
+    }
+}
